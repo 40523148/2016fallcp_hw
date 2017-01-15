@@ -5,4 +5,4 @@ https://ss40523148.github.io/2016fallcp_hw
 
 #的網誌
 
-https://ss40523148.github.io/2016fallcp_hw/blog/
+https://ss40523148.github.io/2016fallcp_hw/blog/index.html
