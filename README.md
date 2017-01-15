@@ -3,6 +3,6 @@
 
 https://ss40523148.github.io/2016fallcp_hw
 
-#顏柏伸的網誌
+#的網誌
 
 https://ss40523148.github.io/2016fallcp_hw/blog/
