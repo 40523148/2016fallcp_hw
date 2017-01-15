@@ -1622,12 +1622,11 @@ def animate(i):
 
 animate(0)
 '''
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>2016Fall 嚴伯陞</title><link href="./2016fall-yan-bo-sheng.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-yan-bo-sheng.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/191624156" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>2016Fall 嚴伯陞</title><link href="./2016fall-yan-bo-sheng.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>linjinj</name></author><id>tag:,2016-09-02:./2016fall-yan-bo-sheng.html</id><summary type="html">&lt;p&gt;網誌 Category&lt;/p&gt;
+&lt;p&gt;網誌 Tags&lt;/p&gt;
+&lt;p&gt;reveal.js 使用導引&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/191624156" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/191624156"&gt;2016-11-15_18-58-57&lt;/a&gt; from &lt;a href="https://vimeo.com/user57034054"&gt;s40523148&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-
-
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
+</summary><category term="使用導引"></category></entry></feed>
